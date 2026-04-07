@@ -24,7 +24,6 @@
 <p align="left">
 I'm <b>Kabir Raj Singh</b>, a Software Engineer at <b>Oracle</b> working at the intersection of <b>distributed systems</b> and <b>GenAI</b>.<br><br>
 
-- 🚀 Building <b>petabyte-scale distributed systems</b> (9PB/day ingestion, sub-5s p99 latency)
 - 🤖 Designing <b>LLM-powered systems</b> (RAG, agentic workflows, LLM safety)
 - ⚙️ Strong focus on <b>observability, reliability, and system scalability</b>
 - 🧠 Interested in <b>AI systems + infrastructure convergence</b>
