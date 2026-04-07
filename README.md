@@ -29,6 +29,7 @@ I'm <b>Kabir Raj Singh</b>, a Software Engineer at <b>Oracle</b> working at the 
 - ⚙️ Strong focus on <b>observability, reliability, and system scalability</b>
 - 🧠 Interested in <b>AI systems + infrastructure convergence</b>
 - 🏆 Hackathon winner & published researcher
+- ☁️ Certified Kubernetes Application Developer (CKAD) — Linux Foundation
 </p>
 
 ###
@@ -65,7 +66,6 @@ OCI • AWS • Docker • Prometheus • Grafana • Custom Metrics • Alertin
 
 - **Application Developer — Oracle India Pvt. Ltd.**  
   *Aug 2024 – Present*
-
 
   - Currrently working here with large scale data platform, monitoring, exploring AI with security.
 
@@ -114,6 +114,12 @@ OCI • AWS • Docker • Prometheus • Grafana • Custom Metrics • Alertin
 - 🥇 Best Use of LlamaIndex — Advanced RAG Hackathon  
 - 🥉 Intel x Awiros Vision Appathon  
 - 🏁 Top 1% — Flipkart Grid  
+
+###
+
+<h3 align="left">🎓 Certifications</h3>
+
+- Certified Kubernetes Application Developer (CKAD) — Linux Foundation
 
 ###
 
